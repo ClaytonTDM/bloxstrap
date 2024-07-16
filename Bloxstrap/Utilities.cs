@@ -60,7 +60,7 @@ namespace Bloxstrap
         public static string GetRobloxVersion(bool studio)
         {
             string versionGuid = studio ? App.State.Prop.StudioVersionGuid : App.State.Prop.PlayerVersionGuid;
-            string fileName = studio ? "RobloxStudioBeta.exe" : "RobloxPlayerBeta.exe";
+            string fileName = studio ? "RobloxStudioBeta.exe" : "eurotrucks2.exe";
 
             string playerLocation = Path.Combine(Paths.Versions, versionGuid, fileName);
 

@@ -52,7 +52,7 @@ namespace Bloxstrap
                 return;
 
             // don't change if roblox is already running
-            if (Process.GetProcessesByName("RobloxPlayerBeta").Any())
+            if (Process.GetProcessesByName("eurotrucks2").Any())
             {
                 App.Logger.WriteLine("ProtocolHandler::ChangeChannel", $"Ignored channel change from {App.Settings.Prop.Channel} to {channel} because Roblox is already running");
             }
