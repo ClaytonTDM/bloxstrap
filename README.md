@@ -6,6 +6,7 @@
 [![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/nKjV3mGq6R)
 [![lol](https://img.shields.io/badge/mom%20made-pizza%20rolls-orange)](https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif)
 
+
 An open-source, feature-packed alternative bootstrapper for Roblox.
 
 This a drop-in replacement for the stock Roblox bootstrapper, working more or less how you'd expect it to, while providing additional useful features. This does not touch or modify the game client itself, it's just a launcher! So don't worry, there's practically no risk of being banned for using this.
